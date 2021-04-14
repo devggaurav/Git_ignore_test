@@ -1,4 +1,4 @@
-package com.bjs.mdmV2
+package com.gc.example
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

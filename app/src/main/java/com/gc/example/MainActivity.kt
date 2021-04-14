@@ -1,4 +1,4 @@
-package com.bjs.mdmV2
+package com.gc.example
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

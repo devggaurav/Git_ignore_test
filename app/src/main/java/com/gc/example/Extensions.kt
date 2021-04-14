@@ -1,4 +1,4 @@
-package com.bjs.mdmV2
+package com.gc.example
 
 import android.app.Activity
 import android.os.Handler

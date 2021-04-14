@@ -1,4 +1,4 @@
-package com.bjs.mdmV2
+package com.gc.example
 
 import android.app.Activity
 import android.content.Context
@@ -16,6 +16,14 @@ import androidx.fragment.app.Fragment
 class ToastUtil {
 
     companion object {
+
+        // git clean -f -d .idea  to remove .idea files
+
+        // To update if git ignore not working
+        //git rm -r --cached .
+        //git add .
+        //git commit -m "fixed untracked files"
+
 
       //asdaaaaaaaaaaaaaaaaa
         @JvmStatic
