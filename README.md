@@ -1,5 +1,5 @@
 # Git ignore for android projects
-To test git ignore for android
+Added .gitignore file in project level, copy and paste it to your project, use below commands if its not working 
 
 
  # To update if git ignore not working 
