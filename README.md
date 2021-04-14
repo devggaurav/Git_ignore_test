@@ -1,4 +1,4 @@
-# Git_ignore_test
+# Git ignore for android projects
 To test git ignore for android
 
 
