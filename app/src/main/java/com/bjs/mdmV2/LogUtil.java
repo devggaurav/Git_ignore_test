@@ -10,7 +10,7 @@ import java.util.Locale;
  * @author gaurav
  */
 public final class LogUtil {
-    private final static String TAG = "logs";
+    private final static String TAG = "logssssss";
     private final static String MATCH = "%s->%s->%d";
     private final static String CONNECTOR = ":<--->:";
 
